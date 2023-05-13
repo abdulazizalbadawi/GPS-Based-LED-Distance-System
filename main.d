@@ -1,0 +1,15 @@
+.\main.o: main.c
+.\main.o: systick.h
+.\main.o: LCD_setup.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: LCD_setup.h
+.\main.o: C:/Keil/ARM/tm4c123gh6pm.h
+.\main.o: GPIO.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\Math.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\main.o: GPS.h
+.\main.o: UART.h
+.\main.o: calcDistance.h
