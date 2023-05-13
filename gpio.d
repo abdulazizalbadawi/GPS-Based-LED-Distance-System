@@ -1,0 +1,9 @@
+.\gpio.o: GPIO.c
+.\gpio.o: GPIO.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\Math.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\gpio.o: C:/Keil/ARM/tm4c123gh6pm.h
