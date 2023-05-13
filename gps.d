@@ -1,0 +1,14 @@
+.\gps.o: GPS.c
+.\gps.o: systick.h
+.\gps.o: LCD_setup.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\gps.o: LCD_setup.h
+.\gps.o: C:/Keil/ARM/tm4c123gh6pm.h
+.\gps.o: GPIO.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\Math.h
+.\gps.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\gps.o: GPS.h
+.\gps.o: UART.h
